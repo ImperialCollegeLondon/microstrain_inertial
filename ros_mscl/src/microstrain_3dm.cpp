@@ -23,7 +23,7 @@
 #include <stdlib.h>
 #include <ctime>
 
-#include "mscl/mscl.h"
+#include "/usr/share/c++-mscl/source/mscl/mscl.h"
 #include "microstrain_diagnostic_updater.h"
 #include <ros/callback_queue.h>
 #include <tf2/LinearMath/Transform.h>

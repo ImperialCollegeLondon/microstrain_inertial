@@ -44,7 +44,7 @@
 #include "tf2_geometry_msgs/tf2_geometry_msgs.h"
 
 //MSCL
-#include "mscl/mscl.h"
+#include "/usr/share/c++-mscl/source/mscl/mscl.h"
 #include "mscl_msgs/Status.h"
 #include "mscl_msgs/RTKStatus.h"
 #include "mscl_msgs/FilterStatus.h"
